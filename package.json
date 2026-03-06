@@ -1,0 +1,21 @@
+{
+  "name": "davastresher",
+  "version": "2.0.0",
+  "description": "HTTP Flood Tool with Proxy Support & Cloudflare Bypass",
+  "main": "DavaStresher.js",
+  "scripts": {
+    "start": "node DavaStresher.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "https-proxy-agent": "^7.0.6",
+    "socks-proxy-agent": "^8.0.5",
+    "hpagent": "^1.2.0",
+    "chalk": "^4.1.2",
+    "user-agents": "^1.1.375",
+    "random-useragent": "^0.5.0",
+    "ws": "^8.18.0"
+  },
+  "author": "@DavaXploitt",
+  "license": "MIT"
+}
